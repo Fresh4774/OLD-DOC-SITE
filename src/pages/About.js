@@ -96,7 +96,7 @@ const About = () => (
             src={Imu}
             alt=""
           />
-          <p>OpenSource</p>
+          <p>Terminal</p>
         </div>
         <div className="skill">
           <img

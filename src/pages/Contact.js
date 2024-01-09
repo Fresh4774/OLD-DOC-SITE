@@ -5,13 +5,10 @@ const Contact = () => (
   <div className="contact" id="contact">
     <div className="footer-left">
       <h1>
-        Something
-        {' '}
-        <br />
-        Cool &
+        It's Cool +
         <br />
         {' '}
-        Insane ⚡️
+        Insane⚡️
       </h1>
     </div>
     <div className="footer-right">
