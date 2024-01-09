@@ -98,6 +98,20 @@ const About = () => (
           />
           <p>OpenSource</p>
         </div>
+        <div className="skill">
+          <img
+            src={Imu}
+            alt=""
+          />
+          <p>Code Translator</p>
+        </div>
+        <div className="skill">
+          <img
+            src={Imu}
+            alt=""
+          />
+          <p>MM</p>
+        </div>
       </div>
       <h2 className="skill-title">Aquin Collabs</h2>
       <div className="skills">
