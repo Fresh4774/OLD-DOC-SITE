@@ -47,7 +47,7 @@ const About = () => (
           <p>Doc</p>
         </div>
       </div>
-      <h2 className="skill-title">Aquin Interactives</h2>
+      <h2 className="skill-title">Gonna Make This:</h2>
       <div className="skills">
         <div className="skill">
           <img
@@ -55,13 +55,6 @@ const About = () => (
             alt=""
           />
           <p>Erase</p>
-        </div>
-        <div className="skill">
-          <img
-            src={Imu}
-            alt=""
-          />
-          <p>AGI Mock</p>
         </div>
         <div className="skill">
           <img
@@ -96,21 +89,7 @@ const About = () => (
             src={Imu}
             alt=""
           />
-          <p>Terminal</p>
-        </div>
-        <div className="skill">
-          <img
-            src={Imu}
-            alt=""
-          />
-          <p>Code Translator</p>
-        </div>
-        <div className="skill">
-          <img
-            src={Imu}
-            alt=""
-          />
-          <p>MM</p>
+          <p>Maim</p>
         </div>
       </div>
       <h2 className="skill-title">Aquin Collabs</h2>
