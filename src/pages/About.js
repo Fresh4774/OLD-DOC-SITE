@@ -89,13 +89,6 @@ const About = () => (
             src={Imu}
             alt=""
           />
-          <p>Core</p>
-        </div>
-        <div className="skill">
-          <img
-            src={Imu}
-            alt=""
-          />
           <p>Infinity</p>
         </div>
         <div className="skill">
@@ -103,7 +96,7 @@ const About = () => (
             src={Imu}
             alt=""
           />
-          <p>Sound</p>
+          <p>OpenSource</p>
         </div>
       </div>
       <h2 className="skill-title">Aquin Collabs</h2>
@@ -134,7 +127,6 @@ const About = () => (
         <p className="soft-skill">ADumbPerson(dev)</p>
         <p className="soft-skill">abig0(dev)</p>
         <p className="soft-skill">kenny(dev)</p>
-        <p className="soft-skill">Sambhav(dev)</p>
         <p className="soft-skill">Kiddu(dev)</p>
         <p className="soft-skill">kris4o(dev)</p>
         <p className="soft-skill">MoonKnight(dev)</p>
