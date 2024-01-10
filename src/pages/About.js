@@ -54,13 +54,6 @@ const About = () => (
             src={Imu}
             alt=""
           />
-          <p>Erase</p>
-        </div>
-        <div className="skill">
-          <img
-            src={Imu}
-            alt=""
-          />
           <p>Specific</p>
         </div>
         <div className="skill">
